@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: cadetblue;
+}
+h1{
+    color: darkorchid;
+}
+p{
+    color: darkblue;
+    font-family: fantasy;
+    font-size: 18px
+}
+h2{
+    color: dodgerblue;
+}
